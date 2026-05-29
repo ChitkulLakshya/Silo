@@ -14,31 +14,18 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## Table of Contents
-1. [Introduction](#1-introduction)
-2. [Core Philosophy](#2-core-philosophy)
-3. [Key Features](#3-key-features)
-4. [Comprehensive Technology Stack](#4-comprehensive-technology-stack)
-5. [Architecture Overview](#5-architecture-overview)
-6. [Data Isolation & Security Model](#6-data-isolation--security-model)
-7. [Zero-Lag Offline Capabilities](#7-zero-lag-offline-capabilities)
-8. [Setup & Installation Instructions](#8-setup--installation-instructions)
-9. [Detailed Project Directory Structure](#9-detailed-project-directory-structure)
-10. [Environment Variables Configuration](#10-environment-variables-configuration)
-11. [Authentication Lifecycle](#11-authentication-lifecycle)
-12. [Local Database Schema (SQLite)](#12-local-database-schema-sqlite)
-13. [Component Documentation & UI Layouts](#13-component-documentation--ui-layouts)
-14. [Styling & NativeWind Architecture](#14-styling--nativewind-architecture)
-15. [State Management & Data Flow](#15-state-management--data-flow)
-16. [Cross-Platform Native Modules](#16-cross-platform-native-modules)
-17. [Contributing & Development Guidelines](#17-contributing--development-guidelines)
-18. [Testing Methodologies](#18-testing-methodologies)
-19. [Deployment & CI/CD Pipelines (EAS)](#19-deployment--cicd-pipelines-eas)
-20. [Performance Optimizations](#20-performance-optimizations)
-21. [Security Hardening Protocols](#21-security-hardening-protocols)
-22. [Troubleshooting & FAQ](#22-troubleshooting--faq)
-23. [Future Roadmap](#23-future-roadmap)
-24. [License](#24-license)
+## 📌 Table of Contents
+
+| 📘 Core & Foundation | ⚙️ Architecture & Data | 🚀 Setup & Operations |
+| :--- | :--- | :--- |
+| 1. [Introduction](#1-introduction) | 5. [Architecture Overview](#5-architecture-overview) | 8. [Setup & Installation Instructions](#8-setup--installation-instructions) |
+| 2. [Core Philosophy](#2-core-philosophy) | 6. [Data Isolation & Security Model](#6-data-isolation--security-model) | 9. [Detailed Project Directory Structure](#9-detailed-project-directory-structure) |
+| 3. [Key Features](#3-key-features) | 7. [Zero-Lag Offline Capabilities](#7-zero-lag-offline-capabilities) | 10. [Environment Variables Configuration](#10-environment-variables-configuration) |
+| 4. [Comprehensive Technology Stack](#4-comprehensive-technology-stack) | 11. [Authentication Lifecycle](#11-authentication-lifecycle) | 16. [Cross-Platform Native Modules](#16-cross-platform-native-modules) |
+| 13. [Component Documentation & UI Layouts](#13-component-documentation--ui-layouts) | 12. [Local Database Schema (SQLite)](#12-local-database-schema-sqlite) | 17. [Contributing & Development Guidelines](#17-contributing--development-guidelines) |
+| 14. [Styling & NativeWind Architecture](#14-styling--nativewind-architecture) | 15. [State Management & Data Flow](#15-state-management--data-flow) | 18. [Testing Methodologies](#18-testing-methodologies) |
+| 23. [Future Roadmap](#23-future-roadmap) | 20. [Performance Optimizations](#20-performance-optimizations) | 19. [Deployment & CI/CD Pipelines (EAS)](#19-deployment--cicd-pipelines-eas) |
+| 24. [License](#24-license) | 21. [Security Hardening Protocols](#21-security-hardening-protocols) | 22. [Troubleshooting & FAQ](#22-troubleshooting--faq) |
 
 ---
 
