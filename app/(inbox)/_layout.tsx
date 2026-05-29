@@ -2,16 +2,9 @@ import { Stack } from 'expo-router';
 
 export default function InboxLayout() {
   return (
-    <Stack>
-      <Stack.Screen 
-        name="index" 
-        options={{ 
-          title: 'Inbox',
-          headerLargeTitle: true,
-          headerShadowVisible: false,
-          headerStyle: { backgroundColor: '#ffffff' },
-        }} 
-      />
+    <Stack screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="index" />
+      <Stack.Screen name="mail/[id]" />
     </Stack>
   );
 }
