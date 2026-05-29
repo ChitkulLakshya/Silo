@@ -1,4 +1,4 @@
-# Silo (zen-mail) - Enterprise Secure Mail Client
+# SILO - Enterprise Secure Mail Client
 
 <p align="center">
   <img src="https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
@@ -44,7 +44,7 @@
 
 ## 1. Introduction
 
-**Silo (zen-mail)** is an enterprise-grade, ultra-secure, offline-first email client built specifically for managing high-value work communications. Silo is designed to mimic the extremely fast, zero-lag architectures of heavy-duty open-source applications (similar to highly optimized native clients like Tachiyomi or Aniyomi) by heavily utilizing local caching and strict data synchronization rules.
+**SILO** is an enterprise-grade, ultra-secure, offline-first email client built specifically for managing high-value work communications. Silo is designed to mimic the extremely fast, zero-lag architectures of heavy-duty open-source applications (similar to highly optimized native clients like Tachiyomi or Aniyomi) by heavily utilizing local caching and strict data synchronization rules.
 
 The primary objective of Silo is to provide absolute, airtight isolation for your work emails. It ensures that authentication tokens are sandboxed securely on the device and never leak access or permissions to your device's global accounts, personal Google Photos, or Google Drive data. 
 
@@ -148,8 +148,8 @@ Follow these precise steps to get Silo compiling and running locally on your dev
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-org/silo-zen-mail.git
-    cd silo-zen-mail
+    git clone https://github.com/your-org/silo.git
+    cd silo
     ```
 
 2.  **Install Dependencies:**
